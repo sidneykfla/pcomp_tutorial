@@ -1,4 +1,4 @@
-# Physical Computing Tutorial: Wheels and Motors
+# Physical Computing Tutorial: Stepper Motors
 
 Instructions:
 1. Download Fritzing at https://fritzing.org/download/?paid. If it asks you to pay, either select "I already paid" or if you feel like making a donation, feel free to do so.
